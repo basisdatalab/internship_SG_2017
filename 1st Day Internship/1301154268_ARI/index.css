@@ -1,23 +1,57 @@
-h2{
-	font-size: 3em;
-	color: red;
-	text-align: center;
-	padding-right: 200px;
-	font-family: monospace;
+body{
+	background-color: lightblue; 
 }
 img{
-	width:70%;
+	width:10%;
 	display: block;
 	margin: 0 auto;
 }
-h1{
-	color: green;	
-	margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 150px;
-    margin-left: 80px;
-    font-family: fantasy;
+.img-border {
+   border-style: solid;
+   border-radius: 100%;
+   margin-bottom: 100px;
 }
-#h1kedua{
+#top-text{
+	font-size: 50px;
+	padding: 20px;
+}
+.red-text{
+	color: red;
+	margin-left: 150px;
+	margin-right: 150px;
+	font-size: 40px;
+}
+.blue-text{
 	color: blue;
+	margin-left: 150px;
+	margin-right: 150px;
+	font-size: 20px;
+}
+.green-text{
+	color: green;
+	margin-left: 150px;
+	margin-right: 150px;
+	font-size: 10px;
+}
+#black-text{
+	color: black;
+	margin-left: 150px;
+	margin-right: 150px;
+	font-size: 30px;
+}
+.border{
+	border-style: solid;
+    border-left: dotted;
+    border-right: groove;
+}
+h1{
+	font-family: monospace;
+}
+h2{
+	font-family: sans-serif;
+	letter-spacing: -2px;
+}
+h3{
+	font-family: fantasy;
+	letter-spacing: 3px;
 }
