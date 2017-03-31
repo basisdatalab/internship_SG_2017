@@ -1,0 +1,23 @@
+h2{
+	font-size: 3em;
+	color: red;
+	text-align: center;
+	padding-right: 200px;
+	font-family: monospace;
+}
+img{
+	width:70%;
+	display: block;
+	margin: 0 auto;
+}
+h1{
+	color: green;	
+	margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    font-family: fantasy;
+}
+#h1kedua{
+	color: blue;
+}
