@@ -6,14 +6,15 @@ h1{
 
 img{
 	width : 50%;
-	display: block;
-	margin: 0 auto;
+	float: left;
+    margin: 0 0 10px 10px;
 }
 .par1{
 	text-align: center;
 	font-family: 'Macondo', cursive;
 	font-size: 1em;
 	padding: 
+	color: blue;
 }
 
 .par2{
@@ -29,6 +30,7 @@ img{
 	font-family: 'Revalia', cursive;
 	font-size: 3em;
 	letter-spacing: 5px;
+
 }
 
 /*.head{*/
@@ -37,12 +39,26 @@ img{
 
 h2{
 	font-size: 6em;
+	color: green;
 }
 
 h3{
 	text-align: right;
+	color: pink;
 }
 
 h4{
 	text-align: left;
+	color: blue;
+}
+
+.bordered{
+	border-color: red;
+	border-width: 10px;
+	border-style: solid;
+	border-radius: 50%;
+}
+
+.bg{
+	background-color: yellow;
 }
