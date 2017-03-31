@@ -1,0 +1,18 @@
+h1{
+	font-size: 3em;
+	color: red;
+}
+img{
+	width: 70%;
+	display: block;
+	margin: 0 auto;
+}
+.gede{
+	font-size: 5em
+}
+#kecil{
+	font-size: 1em
+}
+#bedafont{
+	font-family: 'Josefin Sans', sans-serif;
+}
