@@ -1,0 +1,56 @@
+.container {
+	width: 1024px;
+	margin: 0 auto;
+}
+
+.tcenter { text-align: center; }
+.tleft { text-align: left; }
+.tright { text-align: right; }
+
+.font1 { font-family: "Helvetica"; }
+.font2 { font-family: "Lato"; }
+.font3 { font-family: "Bebas Neue"; }
+
+.ukuran1 { font-size: 36px; }
+.ukuran2 { font-size: 32px; }
+.ukuran3 { font-size: 24px; }
+.ukuran4 { font-size: 18px; }
+.ukuran5 { font-size: 14px; }
+
+.letter1 { letter-spacing: 2px; }
+.letter2 { letter-spacing: 5px; }
+
+.color1 { color: red; }
+.color2 { color: green; }
+.color3 { color: gray; }
+.color4 { color: blue; }
+
+.backcolor1 { background-color: #eee; }
+.backcolor2 { background-color: blue; }
+
+.lh {
+	line-height: 24px;
+}
+
+.bulet {
+	width: 150px;
+	height: 150px;
+	border-radius: 1000px;
+	margin: 20px auto;
+}
+
+.box1 {
+	padding: 40px;
+	margin: 20px;
+	border-left: 10px #ccc solid;
+}
+.box2 {
+	padding: 40px;
+	margin: 20px;
+	border: 10px #ccc solid;
+}
+.box3 {
+	padding: 40px;
+	margin: 20px;
+	border-right: 10px #ccc solid;
+}
