@@ -1,0 +1,47 @@
+h1 {
+	color: green;
+	font-size:60pt;
+	text-align:center;
+}
+
+h2 {
+	color: black;
+	font-size:50;
+	text-align:center;
+}
+
+.p1{
+	text-align: justify;
+	font-family: 'Fredoka One', cursive;
+	font-size: 12pt;
+	color: blue;
+	letter-spacing: 5px;
+}
+
+.p2{
+	text-align: left;
+	font-family: 'Indie Flower', cursive;
+	font-size: 20pt;
+	color: red;
+	letter-spacing: 10px;
+}
+
+.p3{
+	text-align:  right;
+	font-family: 'Dosis', sans-serif;
+	font-size: 15pt;
+	color: yellow;
+	letter-spacing: 40px;
+}
+
+.p3{
+	text-align:  right;
+	font-family: 'Dosis', sans-serif;
+	font-size: 14pt;
+	color: purple;
+}
+
+.img {
+	width: 50%;
+
+}
