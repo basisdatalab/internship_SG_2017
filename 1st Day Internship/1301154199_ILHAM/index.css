@@ -1,0 +1,40 @@
+h1{
+	font-size: 50pt;
+	font-family: georgia;
+	text-align: center;
+	letter-spacing: 20px;
+	color: navy;
+}
+h2{
+	font-family: serif;
+	font-size: 35pt;
+	text-align: center;
+	letter-spacing: 10px;
+	color: red;
+}
+h3{
+	font-family: monospace;
+	font-size: 40pt;
+	text-align: left;
+	padding: 10;
+	color: green;
+}
+h4{
+	font-family: georgia;
+	font-size: 45pt;
+	text-align: right;
+	color: maroon;
+}
+.nyobainClass{
+	font-style: sans-serif;
+	font-size: 20;
+	background-color: blue;
+}
+img{
+	width: 750px;
+	height: 450px;
+}
+p{
+	margin: 0 auto;
+}
+
