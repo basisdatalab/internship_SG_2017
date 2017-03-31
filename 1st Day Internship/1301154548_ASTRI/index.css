@@ -1,0 +1,47 @@
+head {
+	font-size: 30px;
+}
+
+body {
+	padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    
+    background-color: grey;
+}
+
+img
+{
+	display:block;
+	margin: 0 auto;
+}
+
+h1{
+	font-family:verdana;
+	font-size: 3em;
+	color: red;
+	letter-spacing: 2px;
+	text-align: center;
+	
+	margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+
+    border-style: dashed;
+}
+
+h2{
+	font-family:arial;
+	font-size: 22px;
+	letter-spacing: 3px;
+	border-left-style: solid;
+}
+
+p{
+	font-family: courier;
+	border-right: dotted;
+
+}
+	
