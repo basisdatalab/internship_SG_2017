@@ -17,7 +17,7 @@
 		}
 
 	img{
-		width:200px;
+		width:500px;
 		display: block;
 		margin:0 auto;
 	}
@@ -30,13 +30,18 @@
 		margin-top:  5cm;
 		margin-bottom: 5cm;
 		letter-spacing: 2px;
-		padding: 2cm 4cm 3cm 4cm;
+		padding: 2cm 2cm 3cm 3cm;
 	}
 	.setting-p2{
 		font-size:15;
 		color:red;
 		text-align: left;
+		margin-right: 5cm;
+		margin-left: 5cm;
+		margin-top:  5cm;
+		margin-bottom: 5cm;
 		letter-spacing: 1px;
+		padding: 2cm 2cm 3cm 3cm;
 	}
 	.setting-p3{
 		font-size:20;
