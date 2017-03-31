@@ -1,0 +1,43 @@
+h1 {
+	font-size: 4em;
+	color: red;	
+	font-family: 'Roboto', sans-serif;
+
+}
+img {
+	width: 70%;
+	display: block;
+	margin: 0 auto;
+}
+.p1 {
+	font-size: 1em;
+	color: blue;	
+	font-family: 'Roboto', sans-serif;
+	letter-spacing: 1px;
+	padding-right: 10px;
+	padding-left : 10px;
+	padding-bottom: 10px;
+}
+.p2 {
+	font-size: 1em;
+	color: pink;	
+	font-family: 'Roboto', sans-serif;
+	font-family: 'Macondo', cursive;
+	font-family: 'Spirax', cursive;
+	letter-spacing: 2px;
+ 	padding-right: 10px;
+	padding-left : 10px;
+	padding-bottom: 10px;
+}
+}
+.p3 {
+	font-size: 1em;
+	color: yellow;	
+	font-family: 'Roboto', sans-serif;
+	font-family: 'Macondo', cursive;
+	letter-spacing: 3px;
+	padding-right: 10px;
+	padding-left : 10px;
+	padding-bottom: 10px;
+}
+}
