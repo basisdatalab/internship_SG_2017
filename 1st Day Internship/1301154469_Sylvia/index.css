@@ -1,39 +1,55 @@
 h1{
-	font-size: 2em;
+	font-size: 3em;
 	color: red;
 }
 
 img{
-	width: 20%;
+	width: 50%;
 	display: block;
 	margin: 0 auto;
 }
 
 .gede{
-	font-size: 1,5em;
+	font-size: 1em;
 	text-align: center;	
 	font-family: 'PT Sans Narrow';
 	letter-spacing: 3px;
-	padding: 2cm 3cm 0.5cm 3cm;
+	padding: 0cm 3cm 0cm 3cm;
+	margin-left: 10px;
+	margin-right: 10px;
+	color: purple;
+	background-color: white;
 }
 .sedang{
-	font-size: 1,8em;
+	font-size: 0.9em;
 	text-align: left;
 	font-family: 'Indie Flower';
 	letter-spacing: 1.5px;
-	padding: 3cm 2cm 1cm 2cm;
+	padding: 0cm 5cm 0cm 1cm;
+	margin-right: 150px;
+	color: green;
+	background-color: white;
 }
 
 .kecil{
-	font-size: 1em;
+	font-size: 1.1em;
 	text-align: right;
 	font-family: 'Inconsolata';
 	letter-spacing: 2px;
-	padding: 2cm 3cm 0.5cm 3cm;
+	padding: 0cm 1cm 0cm 5cm;
+	margin-left: 150px;
+	color:grey;
+	background-color: white;
 }
 
 .hehe{
-	font-size: 3em;
+	font-size: 2em;
 	color: blue;
 	text-align: center;
+	padding: 0cm 0cm 1cm 0cm;
+
+}
+
+#warna-background{
+	background-color: pink;
 }
