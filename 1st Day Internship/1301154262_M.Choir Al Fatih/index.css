@@ -1,0 +1,26 @@
+/*<style>*/
+h1{
+	font-size: 10em;
+	color: green;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: left;
+}
+
+h3 {
+    text-align: right;
+}
+
+img{
+	width: 70%;
+	display: block;
+	margin: 0 auto;
+}
+
+
+/*</style>*/
