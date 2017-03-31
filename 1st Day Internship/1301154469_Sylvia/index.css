@@ -1,0 +1,39 @@
+h1{
+	font-size: 2em;
+	color: red;
+}
+
+img{
+	width: 20%;
+	display: block;
+	margin: 0 auto;
+}
+
+.gede{
+	font-size: 1,5em;
+	text-align: center;	
+	font-family: 'PT Sans Narrow';
+	letter-spacing: 3px;
+	padding: 2cm 3cm 0.5cm 3cm;
+}
+.sedang{
+	font-size: 1,8em;
+	text-align: left;
+	font-family: 'Indie Flower';
+	letter-spacing: 1.5px;
+	padding: 3cm 2cm 1cm 2cm;
+}
+
+.kecil{
+	font-size: 1em;
+	text-align: right;
+	font-family: 'Inconsolata';
+	letter-spacing: 2px;
+	padding: 2cm 3cm 0.5cm 3cm;
+}
+
+.hehe{
+	font-size: 3em;
+	color: blue;
+	text-align: center;
+}
