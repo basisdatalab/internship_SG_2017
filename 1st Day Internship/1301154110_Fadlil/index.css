@@ -1,0 +1,36 @@
+/*<style>*/
+body{
+
+}
+img {
+	width: 20%;
+}
+h1 {
+	font-size: 3em;
+	font-family: lobster;
+	color: black;
+}
+h2 {
+	font-size: 18pt;
+	color: grey;
+	font-family: 'Montserrat', sans-serif;
+}
+p {
+	font-size: 16pt;
+}
+.p1 {
+	color: red;
+	font-family: 'Lato', sans-serif;
+	font-size: 14pt;
+}
+.p2 {
+	color: green;
+	font-family: 'Oswald', sans-serif;
+	font-size: 13pt;
+}
+.p3 {
+	color: blue;
+	font-family: 'Macondo', cursive;
+	font-size: 12pt;
+}
+/*</style>*/
