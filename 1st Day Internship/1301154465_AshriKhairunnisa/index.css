@@ -1,9 +1,9 @@
 /*<style>*/
 h1 {
 	font-size: 2em;
-	margin-top: 100px;
-	margin-bottom: 100px;
-	margin-right: 150px;
+	margin-top: 80px;
+	margin-bottom: 80px;
+	margin-right: 80px;
 	margin-left: 80px;
 	color: red;
 	font-size: 5em;
@@ -11,7 +11,10 @@ h1 {
 }
 
 img{
+	display: block;
 	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
 }
 h2 {
 	color: blue;
@@ -19,6 +22,7 @@ h2 {
 	font-size:2em;
 	letter-spacing: 2px;
 	border-style: double;
+	border-right-width: 15px;
 }
 h3{
 	color: red;
@@ -26,21 +30,24 @@ h3{
 	font-size:2em;
 	letter-spacing: -3px;
 	border-style: outset;
+}
 
 h4 {
-	color:silver;
+	color: black;
 	font-family: 'Amatic SC', cursive;
-	font-size:2em;
+	font-size: 2em;
 	border-style: double;
+	border-left: thick double #ff0000;
 }
 p {
-	font-family: 'Shadows Into Light', cursive;
-	color: black;
+	font-family: 'Lobster Two', cursive;
+	color: green;
 	padding-top: 50px;
 	padding-right: 30px;
 	padding-bottom: 60px;
 	padding-left: 30px;
+	letter-spacing: 2px;
 
 }
-}
+
 /*</style>*/
