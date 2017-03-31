@@ -1,0 +1,29 @@
+body{
+	background-color: LightPink;
+}
+h1{
+	font-size: 5em;
+	color: white;
+	font-family: Spirax;
+	text-align: right;
+}
+img{
+	display: block;
+	margin: 0 auto;
+}
+.p1{
+	font-size: 10pt;
+	text-align: right;
+	font-family: Pacifico;
+	color: red;
+}
+.p2{
+	font-size: 20pt;
+	text-align: left;
+	color: yellow;
+}
+.p3{
+	font-family: Nova+Oval;
+	font-size: 12pt;
+	color: blue;
+}
