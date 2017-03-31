@@ -1,0 +1,39 @@
+
+	h1{
+		font-size: 15em;
+		color: red;
+		font-family: Monospace;
+		text-align: center;
+		letter-spacing: 10px;
+	}
+	h2{
+		font-size: 10em;
+		color: blue;
+		font-family: Serif;
+		text-align: left;
+		letter-spacing: 10px;
+	}
+
+	p{
+		font-size: 7em;
+		color: orange;
+		font-family: sans-serif;
+		text-align: left;
+		letter-spacing: 10px;
+	}
+
+	img{
+		display: block;
+		margin: 0 auto;
+		padding: 50px 30px 50px 80px;
+		border: 6px solid red;
+	}
+
+	#kecil{
+		font-size:2em;
+	}
+
+	#sedang{
+		font-size:3em;
+	}
+
