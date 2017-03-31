@@ -1,0 +1,43 @@
+h1{
+	font-size: 10em;
+	color:red;
+	font-family: 'Spirax', cursive;
+}
+h2{
+	font-size:5em;
+	color:blue;
+	font-family: 'Spirax', cursive;
+}
+img{
+	width:200px;
+	display: block;
+	margin:0 auto;
+}
+.fontsatu {
+	font-size:10;
+	color :blue ;
+	text-align: right;
+	latter-:2px;
+}
+.fontsatudua{
+	font-size:15;
+	color:red;
+	text-align: center;
+}
+.fontsatutiga{
+	font-size:20;
+	color:green;
+	text-align: left;
+}
+.fontduasatu{
+	font-family: 'Spirax', cursive;
+}
+.fontduadua{
+	font-family: 'Spirax', cursive;
+	font-family: 'Roboto', sans-serif;
+}
+.fontduatiga{
+	font-family: 'Spirax', cursive;
+	font-family: 'Roboto', sans-serif;
+	font-family: 'Jim Nightshade', cursive;
+}
