@@ -1,36 +1,67 @@
-/*<style>*/
 body{
-
+	background-color: maroon;
 }
 img {
 	width: 20%;
+	margin: 0 auto;
+	display: block;
+	border-right: 5px;
+	padding-top: 10px;
 }
+
 h1 {
 	font-size: 3em;
-	font-family: lobster;
+	font-family: 'Lobster', cursive;
 	color: black;
+	text-align: center;
+	letter-spacing: 1px;
+	padding-right: 5px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	border-left: 10px;
+	position: 60px;
 }
+
 h2 {
-	font-size: 18pt;
-	color: grey;
+	font-size: 25pt;
 	font-family: 'Montserrat', sans-serif;
+	color: grey;
+	text-align: center;
+	letter-spacing: 1px;
+	padding-left: 2px;
 }
-p {
-	font-size: 16pt;
+
+h3 {
+	font-size: 22pt;
+	font-family: 'Spirax', cursive;
+	color: orange;
+	border-right: 10px;
 }
-.p1 {
-	color: red;
-	font-family: 'Lato', sans-serif;
+
+h5	{
 	font-size: 14pt;
+	font-family: 'Montserrat', sans-serif;
+	color: white;
+	text-align: right;
 }
+
+.p1 {
+	font-size: 15pt;
+	font-family: 'Lato', sans-serif;
+	color: grape;
+	text-align: left;
+}
+
 .p2 {
-	color: green;
+	font-size: 15pt;
 	font-family: 'Oswald', sans-serif;
-	font-size: 13pt;
+	color: yellow;
+	text-align: center;
 }
+
 .p3 {
-	color: blue;
+	font-size: 15pt;
 	font-family: 'Macondo', cursive;
-	font-size: 12pt;
+	color: blue;
+	text-align: right;
 }
-/*</style>*/
