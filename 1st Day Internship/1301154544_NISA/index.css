@@ -1,0 +1,24 @@
+h1{
+	font-size: 4em;
+	color: #4FC3F7;
+}
+img{
+	width: 15%;
+	display: block;
+	margin: 0 auto;
+
+}
+#bedafont{
+	font-family: courgette;
+}
+
+#fontjudul{
+	font-family: cookie;
+	font-size: 3em;
+	color: #E91E63;
+}
+#fontisi{
+	font-family: philosoper;
+	font-size: 1em;
+	color: #3E2723;
+}
