@@ -1,0 +1,31 @@
+/*<style>*/
+h1{
+font-size: 1.5em;
+color:black;
+
+}
+
+width {
+	width:50%;
+}
+
+.pertama {
+	text-align:"right";
+	font-size: 1em;
+	font-family: 'Lato', sans-serif;
+	letter-spacing:10px;
+}
+
+.kedua {
+	text-align:"left";
+	font-size: 2em;
+	font-family: 'Droid Sans', sans-serif;
+}
+
+.ketiga{
+	text-align:"center";
+	font-size: 3em;
+	font-family: 'Playfair Display', serif;;
+
+}
+/*</style>*/
