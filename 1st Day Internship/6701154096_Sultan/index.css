@@ -1,0 +1,46 @@
+h1{	
+	font-size: 70pt;
+	color: brown;
+	text-align: center;
+	letter-spacing: -2px;	
+	margin: 0 0 10px 10px;
+}
+h2{
+	font-size: 17pt;
+	color: red;
+	text-align: center;
+	letter-spacing: 20px;
+	border: dotted white;
+}
+img{	
+	float: left;
+	width:15%;
+	position: relative;
+	border-radius: 50%;
+	display: block;
+}
+.par1{
+	font-size: 10pt;
+	font-family: Roboto;
+	text-align: center;
+	color: blue;
+}
+.par2{
+	font-size: 12pt;
+	font-family: Macondo;
+	text-align: left;
+	color: skyblue;
+}
+.par3{
+	font-size: 14pt;
+	font-family: Spirax;
+	text-align: right;
+	color: white;
+	line-height: 1px
+	padding: 10px 10px 10px 10px;
+	border-left: 1px solid white;
+	border-right: 2px dotted red;
+}
+body{
+	background-color: black;
+}
