@@ -1,0 +1,64 @@
+h1{
+	font-size : 10em;
+	color: orange;
+	text-align: center;
+}
+
+img{
+	width : 50%;
+	float: left;
+    margin: 0 0 10px 10px;
+}
+.par1{
+	text-align: center;
+	font-family: 'Macondo', cursive;
+	font-size: 1em;
+	padding: 
+	color: blue;
+}
+
+.par2{
+	text-align: right;
+	font-family: 'Spirax', cursive;
+	font-size: 5em;
+	letter-spacing: 10px;
+	padding: 
+}
+
+.par3{
+	text-align: left;
+	font-family: 'Revalia', cursive;
+	font-size: 3em;
+	letter-spacing: 5px;
+
+}
+
+/*.head{*/
+	/*font-size: 6em;*/
+/*}*/
+
+h2{
+	font-size: 6em;
+	color: green;
+}
+
+h3{
+	text-align: right;
+	color: pink;
+}
+
+h4{
+	text-align: left;
+	color: blue;
+}
+
+.bordered{
+	border-color: red;
+	border-width: 10px;
+	border-style: solid;
+	border-radius: 50%;
+}
+
+.bg{
+	background-color: yellow;
+}
