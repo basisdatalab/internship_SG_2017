@@ -1,0 +1,44 @@
+body{
+	background-color: brown;
+}
+h1{
+	font-size: 1,5em;
+	color: red;
+	font-style: calibri;
+	background-color: white
+}
+h2{
+	font-size: 0,5em;
+	color: blue;
+	background-color: white;
+	
+}
+p {
+    padding: 2cm 4cm 3cm 4cm;
+    margin: 2cm 4cm 3cm 4cm;
+     border: 5px solid blue;
+}
+}
+img{
+	width: 20%;
+	display: block;
+	margin: 0 auto;
+	float: right;
+}
+.gede{	
+	font-size: 3em;
+	font-family: font-family: 'Roboto', sans-serif;
+	 border: 2px solid;
+    border-bottom-right-radius: 2em;
+
+}
+.medium{
+	font-size: 2em;
+	font-family: font-family: 'Oswald', sans-serif;
+}
+.kecil{
+	font-size: 1em;
+	font-family: font-family: 'PT Sans', sans-serif;
+	 border: 2px solid;
+    border-bottom-left-radius: 2em;
+}
