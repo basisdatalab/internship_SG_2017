@@ -1,0 +1,82 @@
+.container {
+	width: 1024px;
+	margin: 0 auto;
+}
+
+.tTengah {text-align: center;}
+.tKiri {text-align: left;}
+.tKanan {text-align: right;}
+
+.font1 {font-family: "Lobster",Monospace}
+.font2 {font-family: "calibri";}
+.font3 {font-family: "sans-serif";}
+
+.fsize1 {font-size: 36px;}
+.fsize2 {font-size: 32px;}
+.fsize3 {font-size: 24px;}
+.fsize4 {font-size: 18px;}
+.fsize5 {font-size: 14px;}
+
+.lsize1 {letter-spacing: 2px;}
+.lsize2 {letter-spacing: 5px;}
+
+.padding1{
+	padding: 10px;
+}
+.padding2{
+	padding: 10px;
+	margin: 20px;
+	border-left: 5px;
+}
+.padding3{
+	padding: 10px;
+	margin: 20px;
+	border-right: 5px;
+}
+
+.warnafont1{
+	color: #1E90FF;
+}
+.warnafont2{
+	color: #CD5C5C;
+}
+.warnafont3{
+	color: #FA8072;
+}
+.warnafont4{
+	color: #E9967A;
+}
+
+
+.border1 {
+	border-color: black;
+    border-style: solid;
+    border-width: 0px 10px 0px 10px;
+}
+
+.border2 {
+	border-color: black;
+    border-style: solid;
+    border-width: 0px 0px 0px 10px;
+}
+
+.border3 {
+	border-color: black;
+    border-style: solid;
+    border-width: 0px 10px 0px 0px;
+}
+
+.warna1 {color: red;}
+.warna2 {color: green;}
+.warna3 {color: blue;}
+.warna4 {color: cyan;}
+
+.warnalatar1 { background-color: #00BFFF;}
+.warnalatar2 { background-color: #CCFFCC;}
+.warnalatar3 { background-color: #CCFFE5;}
+
+img {
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+}
