@@ -1,0 +1,52 @@
+h1{
+	text-align: center;
+	font-size: 5em;
+	color: black;
+	letter-spacing: 2px;
+	padding-top : center;
+}
+
+h2{
+	font-family: 'Slabo 27px', serif;
+	text-align: center;
+	font-size: 27px;
+	color : red;
+	letter-spacing: 2px;
+
+}
+
+.p1{
+	font-family: 'Open Sans Condensed', sans-serif;
+	color: grey;
+	text-align: center;
+	font-size: 25px;
+}
+
+.p2{
+	font-family: 'Spirax', cursive;
+	color: green;
+	text-align: left;
+	font-size: 20px;
+}
+
+.p3{
+	font-family: 'Macondo', cursive;
+	color: blue;
+	text-align: right;
+ 	font-size: 15px;	
+}
+
+body{
+	background-color: yellow;
+}
+
+img{
+	display : block;
+	margin :50px;
+	margin : 0 auto;
+	width : 22%;
+	border-bottom: 7px solid black;
+	border-top: 7px solid black;
+	border-left: 7px solid black;
+	border-right: 7px solid black;
+}	
