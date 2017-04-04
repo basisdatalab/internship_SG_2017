@@ -1,9 +1,4 @@
-# First Day SG Internship
-
-Belajar:
-
-1. Git
-1. HTML CSS
+# TUGAS 2
 
 Buat personal profile dengan Fungsionalitas :
 
