@@ -23,3 +23,13 @@ Buat personal profile dengan Fungsionalitas :
 14. Mengerti fungsi position pada CSS
 
 Bootstrap:
+1. Menggunakan grid system
+2. ada button
+3. ada container
+4. ada setting size button with class
+5. Taruh 3 image ke dalam Thumbnails
+
+Jquery
+opsi:
+* alert
+* Document Object Model (DOM) Manipulation (mengubah isi/fungsi suatu tag)
