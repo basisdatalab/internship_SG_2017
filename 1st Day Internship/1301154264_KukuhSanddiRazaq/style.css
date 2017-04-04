@@ -1,0 +1,46 @@
+h1 {
+	font-family: 'Spirax', cursive;
+	color : red;
+	text-align: center;
+	font-size: 75px;
+}
+
+
+img {
+	border-style: solid;	
+	border-width: 10px;
+	width :1100px;
+	display : block;
+	margin: 0 auto;
+}
+
+h2{
+	font-family: 'Revalia' , cursive;
+	color :orange;
+	text-align: center;
+	padding-top: 2px;
+	font-size: 18px;
+}
+h3 {
+	font-family: 'Dosis', sans-serif;
+	color : blue;
+	text-align: right;	
+	font-size: 24px;
+}
+p {
+	font-family: 'Anton', sans-serif;
+	border-style: dashed;
+	border-left: 5px;
+	text-align: left;
+	padding: 5px 50px 5px 100px;
+	font-size: 14px;
+	letter-spacing: 1px;
+}
+body {
+	background-color: powderblue;
+}
+h4 {
+	text-align: left;
+	padding-top: 2px;
+	letter-spacing: 1.5px;
+}
