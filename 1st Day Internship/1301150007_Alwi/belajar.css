@@ -1,0 +1,50 @@
+img{
+	 width: 10cm;
+	 display:  block;
+	 /*margin:0  auto;*/
+	 margin:  10px;
+
+	  }
+
+	 #ptengah{
+	 	text-align: center;
+
+
+	 }
+
+h1{
+	color :blue; 
+	width:  10cm;
+	/*margin:0  auto;*/
+}
+
+#ptengah{
+	 	text-align: center;
+
+
+	 }
+
+p{
+	font-style: Spirax;
+}
+
+body {
+    background-image: url("paper.gif");
+    background-color: red
+}
+
+h1 {
+    font-size: 250%;
+}
+
+h2 {
+    font-size: 200%;
+}
+
+p {
+    font-size: 100%;
+}
+
+p{
+ 	margin-bottom: 5cm;
+ }
