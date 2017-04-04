@@ -1,0 +1,43 @@
+p{
+	text-align:left;
+	text-align:right;
+	text-align:bottom;
+	text-align:top;
+	font-family: monospace;
+	padding-right: 100px;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	letter-spacing: 2px;
+}
+
+img{
+	width: 30%;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	border-left: 100px;
+	border-right: 100px;
+	border-bottom: 100px;
+	border-top: 100px;
+	float: left;
+    margin: 0 10px 10px 40px;
+}
+
+h1{
+	font-family: Sans-serif;
+	font-size: 50px;
+
+}
+
+h2{
+	position: relative;
+	font-family: monospace;
+	font-size: 30px;
+}
+
+h4{
+	font-size:20px; 
+	letter-spacing: 2px;
+}
