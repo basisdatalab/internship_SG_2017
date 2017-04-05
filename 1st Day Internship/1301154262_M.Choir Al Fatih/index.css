@@ -1,0 +1,63 @@
+/*<style>*/
+.p1{
+	 text-align: center;
+	 font-family: 'Gloria Hallelujah', cursive;
+     letter-spacing: 5px;
+     font-size: 20px;
+     color:red;
+     padding-top: center;
+    
+}
+
+.p2{
+	 text-align: left;
+	 font-family: 'Nova Oval', cursive;
+     letter-spacing: 10px;
+     font-size: 30px;
+	 color:yellow;
+}
+
+.p3{
+	 text-align: right;
+	 font-family: 'Kaushan Script', cursive;
+     letter-spacing: 1px;
+     font-size: 40px;
+	 color:green;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Macondo', cursive;
+    letter-spacing: 1px;
+    font-size: 50px;
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    letter-spacing: 1px;
+    font-size: 60px;
+    color: purple;
+}
+
+
+body{
+	background-color: #37474F;
+}
+
+img{
+	display: block;
+	margin: 50px;
+	margin: 0 auto;
+	width: 22%;
+	border-top: 10px solid black;
+	border-bottom: 10px solid black;
+	border-left: 10px solid black;
+	border-right: 10px solid black; 
+}
+
+
+
+
+/*</style>*/

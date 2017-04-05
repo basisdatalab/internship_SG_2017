@@ -1,0 +1,111 @@
+/*<style>*/
+h1 {
+	font-family: 'Satisfy', cursive;
+	font-size: 5em;
+	color: #BA55D3;
+	margin-left: 25px;
+  	margin-right: 25px;
+}
+.smaller-image {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    width: 20%;
+}
+
+#h2 {
+	font-family: 'Spirax', cursive;
+	font-size: 30px;
+	letter-spacing: 1px;
+	color: red;
+	margin-left: 25px;
+  	margin-right: 25px;
+}
+
+#h3 {
+	font-family: 'Macondo', cursive;
+	font-size: 1.6em;
+	letter-spacing: 1px;
+	color: yellow;
+	margin-left: 25px;
+  	margin-right: 25px;
+}
+
+#h4 {
+	font-family: 'Pacifico', cursive;
+	font-size: 1.5em;
+	letter-spacing: 1px;
+	color: green;
+	margin-left: 25px;
+  	margin-right: 25px;
+}
+
+#h5 {
+	font-family: 'Kaushan Script', cursive;
+	font-size: 27px;
+	letter-spacing: 1px;
+	color: #0000FF;
+	margin-left: 25px;
+  	margin-right: 25px;
+}
+
+.thick-purple-border {
+    border-color: #BA55D3;
+    border-width: 15px;
+    border-style: groove;
+    border-radius: 50%;
+  }
+
+.comment-border {
+    border-color: #BA55D3;
+    border-width: 5px;
+    border-top-style: dotted;
+    border-right-style: solid;
+    border-bottom-style: dotted;
+    border-left-style: solid;
+}
+.left-border {
+   	border-color: #BA55D3;
+    border-width: 5px;
+    border-left-style: double;
+    padding: 10px;
+}
+
+.right-border {
+    border-color: #BA55D3;
+    border-width: 5px;
+    border-right-style: double;
+    padding: 10px;
+}
+
+.text {
+	font-family: 'Nova Oval', cursive;
+	font-size: 16px;
+	letter-spacing: 1.5px;
+	color: black;
+	margin-left: 25px;
+  	margin-right: 25px;
+}
+
+body {
+    background-color: rgb(192, 192, 192);
+}
+
+h6 {
+	font-family: 'Satisfy', cursive;
+	font-size: 30px;
+	color: #BA55D3;
+	margin-left: 25px;
+  	margin-right: 25px;
+}
+
+#comment-form {
+  background-color: #F0E68C;
+  padding-top: -30px;
+  padding-bottom: 30px;
+  margin-bottom: 50px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+/*</style>*/

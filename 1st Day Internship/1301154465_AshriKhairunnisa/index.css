@@ -1,0 +1,53 @@
+/*<style>*/
+h1 {
+	font-size: 2em;
+	margin-top: 80px;
+	margin-bottom: 80px;
+	margin-right: 80px;
+	margin-left: 80px;
+	color: red;
+	font-size: 5em;
+	border-style: dotted;
+}
+
+img{
+	display: block;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+h2 {
+	color: blue;
+	font-family: 'Pacifico', cursive;
+	font-size:2em;
+	letter-spacing: 2px;
+	border-style: double;
+	border-right-width: 15px;
+}
+h3{
+	color: red;
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size:2em;
+	letter-spacing: -3px;
+	border-style: outset;
+}
+
+h4 {
+	color: black;
+	font-family: 'Amatic SC', cursive;
+	font-size: 2em;
+	border-style: double;
+	border-left: thick double #ff0000;
+}
+p {
+	font-family: 'Lobster Two', cursive;
+	color: green;
+	padding-top: 50px;
+	padding-right: 30px;
+	padding-bottom: 60px;
+	padding-left: 30px;
+	letter-spacing: 2px;
+
+}
+
+/*</style>*/

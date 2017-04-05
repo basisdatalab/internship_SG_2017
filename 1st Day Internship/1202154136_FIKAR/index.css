@@ -1,0 +1,44 @@
+h1{
+		font-size: 32pt;
+		color: black;
+		font: times ;
+	}
+
+h2{
+		font-size: 20pt;
+		font-family: sans-serif;
+		color: rgb(169, 80, 72);
+}
+
+img{
+	width: 10%;
+	margin: 0 auto;
+	display: block;
+	border-style: solid;
+}
+
+p{
+	font-family: monospace;
+	padding: 20px;
+	letter-spacing: 2pt;
+	margin: 10px;
+}
+
+.kiri{
+	text-align: left;
+	color: green;
+	font-size: 10;
+}
+.kanan{
+	text-align: right;
+	color: red
+	font-size: 11;
+}
+.tengah{
+	text-align: center;
+	color: blue;
+	font-size: 12;
+}
+body{
+	background-color: white;
+}
