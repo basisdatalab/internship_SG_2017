@@ -18,8 +18,8 @@ Buat personal profile dengan Fungsionalitas :
 14. Mengerti fungsi position pada CSS
 
 --Baca dokumentasi bootstrap:
-http://getbootstrap.com/components/
-http://getbootstrap.com/css/
+* http://getbootstrap.com/components/
+* http://getbootstrap.com/css/
 
 Lakukan hal dibawah menggunakan bootstrap:
 1. Menggunakan grid system
