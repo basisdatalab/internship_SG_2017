@@ -31,5 +31,5 @@ Lakukan hal dibawah menggunakan bootstrap:
 
 Jquery
 opsi:
-* alert
+* Alert
 * Document Object Model (DOM) Manipulation (mengubah isi/fungsi suatu tag)
