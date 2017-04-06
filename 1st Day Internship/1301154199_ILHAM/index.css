@@ -1,0 +1,53 @@
+h1{
+	font-size: 50pt;
+	font-family: georgia;
+	text-align: center;
+	letter-spacing: 20px;
+	color: navy;
+	border-style: solid;
+	border-color: black;
+	border-width: 20px;
+	padding: 10px 20px 10px 20px;
+}
+h2{
+	font-family: serif;
+	font-size: 35pt;
+	text-align: center;
+	letter-spacing: 10px;
+	color: red;
+}
+h3{
+	font-family: monospace;
+	font-size: 40pt;
+	text-align: left;
+	color: green;
+	border-left-width: 100px;
+	border-left-color: blue;
+	border-left-style: solid; 
+}
+h4{
+	font-family: georgia;
+	font-size: 45pt;
+	text-align: right;
+	color: maroon;
+	margin-left: -25px;
+	border-right-width: 100px;
+	border-right-color: red;
+	border-right-style: solid; 
+}
+.nyobainClass{
+	font-style: sans-serif;
+	font-size: 20;
+	background-color: grey;
+}
+img{
+	width: 750px;
+	height: 450px;
+}
+p{
+    margin-top: 40px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+}
+

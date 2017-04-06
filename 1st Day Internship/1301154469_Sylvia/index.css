@@ -1,0 +1,79 @@
+h1{
+	font-size: 5em;
+	color: grey;
+	font-family: 'Julee';
+	text-align: center;
+}
+
+img{
+	width: 50%;
+	display: block;
+	margin: 0 auto;
+}
+
+.gede{
+	font-size: 1em;
+	text-align: center;	
+	font-family: 'Sansita';
+	letter-spacing: 3px;
+	padding: 0cm 3cm 0cm 3cm;
+	margin-left: 80px;
+	margin-right: 80px;
+	color: purple;
+	background-color: white;
+}
+.sedang{
+	font-size: 0.9em;
+	text-align: left;
+	font-family: 'Indie Flower';
+	letter-spacing: 1.5px;
+	padding: 0cm 5cm 0cm 1cm;
+	margin-right: 150px;
+	color: green;
+	background-color: white;
+}
+
+.kecil{
+	font-size: 1.1em;
+	text-align: right;
+	font-family: 'Kelly Slab';
+	letter-spacing: 2px;
+	padding: 0cm 1cm 0cm 5cm;
+	margin-left: 150px;
+	color: black;
+	background-color: white;
+}
+
+.hehe{
+	font-size: 4em;
+	color: maroon;
+	text-align: center;
+	padding: 0cm 0cm 0cm 0cm;
+	font-family: 'Creepster';
+		border-color: grey;
+	border-width: 10px;
+	border-style: double;
+	border-radius: 20%;
+	border-left: 5px solid maroon;
+	border-right: 5px solid maroon;
+
+}
+
+#warna-background{
+	background-color: lightgrey;
+}
+
+.border{
+	border-color: grey;
+	border-width: 10px;
+	border-style: double;
+	border-radius: 20%;
+	border-left: 5px solid maroon;
+	border-right: 5px solid maroon;
+}
+
+.box{
+	border-style: dotted;
+	border-color: grey;
+
+}
