@@ -1,0 +1,28 @@
+.tengah{
+position: relative;
+margin-top: 20px;
+margin-left: 100px;
+margin-right: 50px;
+left: 30%;
+top: 50%;
+width: 300px;
+height: 30px;
+background-color: grey;
+margin-bottom: 50px;
+font-family:'Macondo', cursive;
+border: none;
+}
+.tengah1{
+position: relative;
+margin-top: 20px;
+margin-left: 19%;
+margin-right: 50px;
+left: 20%;
+top: 50%;
+width: 300px;
+height: 30px;
+background-color: grey;
+margin-bottom: 50px;
+font-family:'Macondo', cursive;
+border: none;
+}
