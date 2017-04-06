@@ -1,11 +1,19 @@
 /*<style>*/
 .p1{
 	 text-align: center;
-	 font-family: 'Gloria Hallelujah', cursive;
+	 font-family: 'Indie Flower', cursive;
      letter-spacing: 5px;
      font-size: 20px;
-     color:red;
-     padding-top: center;
+     color:black;
+     padding-top: 25px;
+     padding-left: 25px;
+     padding-right: 25px;
+     padding-bottom: 25px;
+     line-height: 30px;
+     border-top: 5px solid grey;
+     border-bottom: 5px solid grey;
+     border-right: 5px solid grey;
+     border-left: 5px solid grey;
     
 }
 
@@ -13,16 +21,34 @@
 	 text-align: left;
 	 font-family: 'Nova Oval', cursive;
      letter-spacing: 10px;
-     font-size: 30px;
+     font-size: 20px;
 	 color:yellow;
+     padding-top: 25px;
+     padding-left: 25px;
+     padding-right: 25px;
+     padding-bottom: 25px;
+     line-height: 40px;
+     border-top: 5px solid grey;
+     border-bottom: 5px solid grey;
+     border-right: 5px solid grey;
+     border-left: 5px solid grey;
 }
 
 .p3{
 	 text-align: right;
 	 font-family: 'Kaushan Script', cursive;
      letter-spacing: 1px;
-     font-size: 40px;
-	 color:green;
+     font-size: 20px;
+	 color:navy;
+     padding-top: 25px;
+     padding-left: 25px;
+     padding-right: 25px;
+     padding-bottom: 25px;
+     line-height: 30px;
+     border-top: 5px solid grey;
+     border-bottom: 5px solid grey;
+     border-right: 5px solid grey;
+     border-left: 5px solid grey;
 }
 
 h1 {
@@ -34,11 +60,11 @@ h1 {
 }
 
 h2 {
-    text-align: center;
-    font-family: 'Yanone Kaffeesatz', sans-serif;
+    text-align: left;
+    font-family: 'Indie Flower', cursive;
     letter-spacing: 1px;
-    font-size: 60px;
-    color: purple;
+    font-size: 35px;
+    color: grey;
 }
 
 
@@ -46,17 +72,61 @@ body{
 	background-color: #37474F;
 }
 
-img{
+#burunghantu{
 	display: block;
 	margin: 50px;
 	margin: 0 auto;
 	width: 22%;
-	border-top: 10px solid black;
-	border-bottom: 10px solid black;
-	border-left: 10px solid black;
-	border-right: 10px solid black; 
+	border-top: 10px solid grey;
+	border-bottom: 10px solid grey;
+	border-left: 10px solid grey;
+	border-right: 10px solid grey; 
 }
 
+#toga{
+    display: block;
+    margin: 50px;
+    margin: 0 auto;
+    width: 22%;
+    border-top: 10px solid grey;
+    border-bottom: 10px solid grey;
+    border-left: 10px solid grey;
+    border-right: 10px solid grey; 
+}
+
+#headset{
+    display: block;
+    margin: 50px;
+    margin: 0 auto;
+    width: 22%;
+    border-top: 10px solid grey;
+    border-bottom: 10px solid grey;
+    border-left: 10px solid grey;
+    border-right: 10px solid grey; 
+}
+
+#gitarr{
+    display: block;
+    margin: 50px;
+    margin: 0 auto;
+    width: 22%;
+    border-top: 10px solid grey;
+    border-bottom: 10px solid grey;
+    border-left: 10px solid grey;
+    border-right: 10px solid grey; 
+}
+.btn{
+    background-color: silver; 
+    display : block;
+    margin : 0 auto;
+    color : black;
+    font-size: 15px;
+    
+}
+
+.modal-body{
+    background: red;
+}
 
 
 
