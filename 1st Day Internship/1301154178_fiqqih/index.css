@@ -4,14 +4,23 @@ h1{
 	color: black;
 	letter-spacing: 2px;
 	padding-top : center;
+	background: red;
+	border-bottom: 7px solid black;
+	border-top: 7px solid black;
+	border-left: 10px solid black;
+	border-right: 10px solid black;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
 }
 
 h2{
 	font-family: 'Slabo 27px', serif;
 	text-align: center;
 	font-size: 27px;
-	color : red;
-	letter-spacing: 2px;
+	color : black;
+	letter-spacing: 1px;
 
 }
 
@@ -20,6 +29,14 @@ h2{
 	color: grey;
 	text-align: center;
 	font-size: 25px;
+	line-height: 30px;
+	padding-top: 15px;
+	padding-right: 15px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+	background: white;
+	border-bottom: 7px solid black;
+	border-top: 7px solid black;
 }
 
 .p2{
@@ -27,26 +44,74 @@ h2{
 	color: green;
 	text-align: left;
 	font-size: 20px;
+	line-height: 30px;
+	padding-top: 15px;
+	padding-right: 15px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+	background: white;
+	border-bottom: 7px solid black;
+	border-top: 7px solid black;
 }
 
 .p3{
 	font-family: 'Macondo', cursive;
 	color: blue;
 	text-align: right;
- 	font-size: 15px;	
+ 	font-size: 15px;
+ 	line-height: 30px;
+ 	padding-top: 15px;
+	padding-right: 15px;
+	padding-bottom: 15px;
+	padding-left: 15px;	
+	background: white;
+	border-bottom: 7px solid black;
+	border-top: 7px solid black;;
 }
 
 body{
-	background-color: yellow;
+	background-color: #CC9966;
 }
 
-img{
+#img1{
 	display : block;
-	margin :50px;
 	margin : 0 auto;
 	width : 22%;
-	border-bottom: 7px solid black;
-	border-top: 7px solid black;
-	border-left: 7px solid black;
-	border-right: 7px solid black;
+}
+
+#img2{
+	display : block;
+	margin : 0 auto;
+	width : 22%;
 }	
+
+#img3{
+	display : block;
+	margin : 0 auto;
+	width : 22%;
+}		
+
+.btn{
+	background-color: red; 
+	display : block;
+	margin : 0 auto;
+	color : black;
+	font-size: 20px;
+	
+}	   
+
+nav{
+	background : black;
+}
+
+.modal-body{
+	background: yellow;
+}
+
+.modal-header{
+	background: yellow;
+}
+
+.modal-footer{
+	background: yellow;
+}
