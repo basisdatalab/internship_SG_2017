@@ -1,0 +1,71 @@
+	h1{
+		font-size: 10em;
+		color:red;
+		text-align: center;
+		margin : 2 cm ;
+		letter-spacing: 2px;
+	}
+	.blue-background {
+		background-color:blue;
+	}
+	.border-foto{
+		border-color: red;
+		border-width: 10px;
+	    border-style: groove;
+		border-radius: 50%;
+		}
+
+	img{
+		width:500px;
+		display: block;
+		margin:0 auto;
+	}
+	.setting-p1 {
+		font-size:15;
+		color :blue ;
+		text-align: center;
+		margin-right: 5cm;
+		margin-left: 5cm;
+		margin-top:  0.5cm;
+		margin-bottom: 2cm;
+		letter-spacing: 1px;
+		padding: 2cm 2cm 3cm 3cm;
+	}
+	.setting-p2{
+		font-size:15;
+		color:red;
+		text-align: left;
+		margin-right: 15cm;
+		margin-left: 0.5cm;
+		margin-top:  0.5cm;
+		margin-bottom: 2cm;
+		letter-spacing: 1px;
+		padding: 1cm 2cm 3cm 1cm;
+	}
+	.setting-p3{
+		font-size:20;
+		color:green;
+		text-align: right;
+		margin-right: 0.5cm;
+		margin-left: 15cm;
+		margin-top:  0.5cm;
+		margin-bottom: 2cm;
+		letter-spacing: 1px;
+		padding: 1cm 2cm 3cm 1cm;
+	}
+	.font-jenis-1{
+		font-family: 'Spirax', cursive;
+	}
+	.font-jenis-2{
+		font-family: 'Spirax', cursive;
+		font-family: 'Roboto', sans-serif;
+	}
+	.font-jenis-3{
+		font-family: 'Spirax', cursive;
+		font-family: 'Roboto', sans-serif;
+		font-family: 'Jim Nightshade', cursive;
+	}
+	h2{
+		font-size:2em;
+		color:blue;
+	}

@@ -1,0 +1,79 @@
+h1 {
+	color: green;
+	font-size:60pt;
+	text-align:center;
+}
+
+h2 {
+	color: black;
+	font-size:50;
+	text-align:center;
+}
+
+.img{
+	width: 50%;
+	
+	border-width: 20px;
+	border-color: red;
+	border-style: solid;
+	border-radius: 10%;
+	margin-left: 24%;
+}
+
+.img2{
+	width: 20%;
+	border-left: 20px;
+	border-right: 50px;
+	border-style: solid;
+	border-radius: 20%;
+}
+
+.p1{
+	background-color: rgb(50,222,110);
+	text-align: center;
+	font-family: 'Fredoka One', cursive;
+	font-size: 12pt;
+	color: blue;
+	letter-spacing: 5px;
+	padding-top: 20px;
+	padding-bottom: 40px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.p2{
+	text-align: left;
+	font-family: 'Indie Flower', cursive;
+	font-size: 20pt;
+	color: red;
+	letter-spacing: 10px;
+	margin-right: 40px;
+	margin-bottom: 49px;
+	margin-left: 59px;
+	margin-top: 10px;
+}
+
+.p3{
+	text-align:  right;
+	font-family: 'Dosis', sans-serif;
+	font-size: 15pt;
+	color: green;
+	letter-spacing: 2px;
+	margin-right: 80px;
+	margin-bottom: 15px;
+	margin-left: 5px;
+	margin-top: 10px;
+}
+
+
+.body{
+	background-color:yellow;
+}
+
+.padding{
+	background-color: red;
+	padding-top: 20px;
+	padding-left: 50px;
+	padding-bottom: 20px;
+	padding-right: 10px;
+}

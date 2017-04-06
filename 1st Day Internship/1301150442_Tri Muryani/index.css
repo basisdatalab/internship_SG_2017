@@ -1,0 +1,64 @@
+
+h1{
+	font-size: 70pt;
+	color: red;
+	padding-top: 10px;
+	padding-right: 200px;
+	padding-bottom: 10px;
+	padding-left: 280px;
+}
+h2{
+	font-size: 50pt;
+	color: orange;
+	border-top-style: double;
+    border-right-style: double;
+    border-bottom-style: double;
+    border-left-style: double;
+    padding-left: 75px;
+    padding-right: 5px;
+    margin-top: 100px
+	margin-bottom: 100px;
+	margin-right: 400px;
+	margin-left: 420px;
+}
+img{
+	width:30%;
+	margin-top: 100px
+	margin-bottom: 100px;
+	margin-right: 300px;
+	margin-left: 470px;
+	border-top-style: dotted;
+    border-right-style: dotted;
+    border-bottom-style: dotted;
+    border-left-style: dotted;
+}
+.par1{
+	font-family: 'Lato';
+	font-size: 20pt;
+	letter-spacing: 2px;
+	color: green;
+	padding-top: 10px;
+	padding-right: 100px;
+	padding-bottom: 10px;
+	padding-left: 180px;
+}
+.par2{
+	font-family: 'Open Sans';
+	font-size:15pt;
+	letter-spacing: 4px;
+	padding-top: 10px;
+	padding-right: 100px;
+	padding-bottom: 10px;
+	padding-left: 180px;
+	color: blue;
+}
+.par3{
+	font-family: 'verdana';
+	font-size:10pt;
+	letter-spacing: 1px;
+	padding-top: 10px; 
+	padding-right: 100px;
+	padding-bottom: 10px;
+	padding-left: 180px; 
+	color: black;
+}
