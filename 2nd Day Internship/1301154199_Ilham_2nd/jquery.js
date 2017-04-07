@@ -1,17 +1,11 @@
 function alert1(){
-	user = $("#01").val();
-	alert("Halo "+ user + ". Anda berhasil login.");
+	user = $("#01").val()
+	alert("Halo "+ user + ", selamat datang.")
 
 }
 
-/*function alert2(){
-	user = $("#btn1").val()
-	alert("Halo "+ user + ". Anda berhasil regis.")
+function alert2(){
+	user = $("#02").val()
+	alert("Selamat "+ user + ", anda berhasil regis.")
 
-}*/ 
-
-function alert3(){
-	haha1 =$("#btn2").val()
-	haha2 =$("#btn3").val()
-	alert("Username : "+haha1+ " Password : "+haha2)
 }
