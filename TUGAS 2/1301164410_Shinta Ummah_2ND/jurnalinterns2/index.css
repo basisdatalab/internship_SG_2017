@@ -1,0 +1,41 @@
+
+body {
+	text-align: center;
+	font: 12px "Lucida Grande", Verdana;
+	color:#eff7e5;
+	margin: 0px auto;
+}
+#header {
+	background:#0b1203 url(header.jpg) bottom no-repeat;
+	margin-bottom: 30px;
+	padding-bottom: 30px;
+	padding-top: 0px;
+}
+
+
+h1 {
+	margin-left:-108px;
+	padding: 5px 0 15px 108px;
+	font-size:30px;
+	border-bottom:1px solid #ccc;
+	font:bold Georgia, Times, serif;
+	color:#633;
+	
+}
+.textlabel{
+
+	font-size:200px 
+	font:bold Georgia, Times, serif;
+	color:#633;
+}
+.form-login {
+    background-color: #EDEDED;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 15px;
+    border-color:#d2d2d2;
+    border-width: 5px;
+    box-shadow:0 1px 0 #cfcfcf;
+}
