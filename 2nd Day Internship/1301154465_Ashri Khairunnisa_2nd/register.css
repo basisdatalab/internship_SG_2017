@@ -1,0 +1,12 @@
+form {
+	margin: 0 auto;
+	width: 50%;
+	border-style: solid;
+    border-color: black;
+    background-color: grey;
+}
+
+h1 {
+	line-height: 50px;
+	color : white;
+}
