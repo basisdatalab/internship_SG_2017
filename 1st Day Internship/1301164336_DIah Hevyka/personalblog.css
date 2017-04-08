@@ -1,0 +1,39 @@
+body{
+	border: 10px solid green;
+	padding: 15px;
+}
+
+p{
+	font-size: 20px;
+	font-family: sans-serif;
+	color: black;
+	text-align: right;
+	letter-spacing: 2px;
+}
+h1{
+	font-size: 40px;
+	font-family: cursive;
+	text-align: center;
+	color: blue;
+
+}
+h2{
+	font-size: 30px;
+	font-family: serif;
+	color: red;
+	text-align: left;
+	letter-spacing: 5px;
+}
+h4{
+	font-size: 15px;
+	color: green;
+	text-align: center;
+}
+img{
+	display: block;
+	margin: 0 auto;
+}
+.background-pink
+{
+	background-color: pink;
+}
