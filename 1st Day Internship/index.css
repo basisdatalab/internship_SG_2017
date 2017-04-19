@@ -1,0 +1,131 @@
+body{
+	background-color: #FFFFF;
+}
+hr { 
+    display: block;
+    margin-top: 3em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+    border-color: #BDBDBD;
+} 
+
+/* p{
+ 	border: 1px dashed  #FFAB91;
+    margin-top: 40px;
+    padding-right: 30px;
+    margin-bottom: 50px;
+    padding-left: 80px;
+ 	font-family: calibri;
+ 	letter-spacing: 1px;
+    background-color: #FFCCBC;
+ }
+*/
+
+h1{
+	/*position: relative;
+	position: absolute;
+	z-index: 1;*/
+	font-size: 95px;
+	color: black;
+	font-family: 'Lobster', cursive;
+	text-align: center;
+	letter-spacing: 3px;
+
+}
+
+/*h2{
+	font-size: 30px;
+	font-family: Playfair+Display|Poppins;
+	letter-spacing: 2px;
+}*/
+
+h4{
+	border-right: : 5px solid orange;
+}
+
+.gambar1{
+	height: 300%;
+	/*position: relative;*/
+	z-index: 0;
+
+	/*min-width: 100%;*/
+	width: 65%;
+	/*display: block;*/
+	/*margin: 0 auto;*/
+	/*border-color: orange;*/
+    /*border-width: 10px;*/
+    /*border-style: solid;*/
+    /*border-radius: 50%;*/
+    margin-right: 30px;
+    margin-left: 85px;
+    /*margin-top: 20px;*/
+    padding-left: 150px;
+    padding-right: 120px;
+}
+
+.gambar2{
+	width: 80%;
+	min-height: 30px;
+	margin-left: 10px;
+	margin-top: 40px;
+
+}
+
+.gambar3{
+	width: 80%;
+	min-height: 30px;
+	margin-right: 900px;
+	margin-top: 100px;
+
+}
+.head1{
+	z-index: 1;
+	font-size: 150px;
+	color: orange;
+	font-family: Playfair+Display;
+	text-align: center;
+	letter-spacing: 3px;
+	margin-top: 50px;
+	font-size: 30px;
+}
+
+.p1{
+	border: 1px dashed #000000;
+    margin-top: 10px;
+    padding-right: 30px;
+    margin-bottom: 50px;
+    padding-left: 30px;
+ 	font-family: calibri;
+ 	letter-spacing: 1px;
+    background-color: #CFD8DC;
+    font-size: 20px;
+    font-color: #000000;
+
+	/*margin-top: 100px;
+	border-left: 6px solid #FFECB3;
+    background-color: #FFECB3;
+    float: right;*/
+
+}
+
+.p2{
+	margin-top: 10px;
+	border-left: 6px solid #A7FFEB;
+    background-color: #A7FFEB;
+	float: left;
+	font-size: 20px;
+
+
+
+}
+
+.p3{
+	margin-top: 10px;
+	border-left: 6px solid #A7FFEB;
+    background-color: #A7FFEB;
+	float: left;
+	font-size: 20px;
+}*/*/
