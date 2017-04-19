@@ -1,0 +1,91 @@
+.greet{
+	color:white;
+	background-color: black;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	text-align: center;
+	font-family: 'Macondo', cursive;
+}
+.me{
+	width: 70%;
+	border-radius: 50%;
+	border-style: solid;
+	border-width: 3px;
+	border-color:black;
+}
+.anu1{
+	text-align: right;
+	font-family: 'Palanquin Dark', sans-serif;
+	font-size:12pt;
+	letter-spacing: 2px;
+}
+.nama{
+	text-align: center;
+	font-family: 'Timmana', sans-serif;
+}
+.point1{
+	padding-top:20px;
+	padding-bottom: 20px;
+	text-align: center;
+	background-color: green;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size:22pt;
+	color: red;
+}
+.isi1{
+	padding-top:20px;
+	background-color:#87fd73;
+}
+.isip{
+	padding-top:20px;
+	padding-bottom: 20px;
+	text-align: center;
+	margin-right: 100px;
+	margin-left: 100px;
+	font-family: 'Ubuntu Condensed', sans-serif;
+	font-size: 20pt;
+	letter-spacing: 1px;
+}
+.point2{
+	padding-top:20px;
+	padding-bottom: 20px;
+	text-align: center;
+	background-color: red;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 35pt;
+	color: yellow;
+}
+.aww{
+	font-size:15pt;
+	position: relative;
+	left:100px;
+}
+.point3{
+	padding-top:20px;
+	padding-bottom: 20px;
+	text-align: center;
+	color:white;
+	background-color: black;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+.pg{
+	margin-left: 100px;
+	font-size: 20pt;
+}
+.pg2{
+	margin-left: 100px;
+	font-size: 15pt;
+}
+.sao{
+	width: 70%;
+}
+/*body{
+	background-color:#e0e6df;
+}*/
+.aw1{
+	text-align: right;
+	margin-left:75%;
+}
+.detil{
+	margin-left:10%;
+}
