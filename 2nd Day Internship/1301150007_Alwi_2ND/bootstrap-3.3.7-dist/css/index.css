@@ -1,0 +1,11 @@
+html{
+	position: relative;
+}
+
+body{
+	margin-top: 30px;
+}
+ hr {
+	width: 250px;
+	border-top: 4px solid #999; 
+}
