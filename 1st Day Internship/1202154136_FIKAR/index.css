@@ -1,44 +1,100 @@
 h1{
 		font-size: 32pt;
-		color: black;
-		font: times ;
+		/*color: black;*/
+		font-family: 'Open Sans', sans-serif;
+
 	}
 
 h2{
 		font-size: 20pt;
 		font-family: sans-serif;
-		color: rgb(169, 80, 72);
+		/*color: black;*/
+		/*line-height: 0.3;*/
+		margin-left: 12px;
+
+
 }
 
 img{
-	width: 10%;
-	margin: 0 auto;
-	display: block;
-	border-style: solid;
+	width: 50%;
+	/*margin: 0 auto;*/
+	/*display: block;*/
+	border-style: dotted;
+	/*align-items: center-block;h*/
+	margin-left: 65px;
 }
 
-p{
-	font-family: monospace;
-	padding: 20px;
-	letter-spacing: 2pt;
+#name{ /*untuk nama*/
+	font-family: 'Lato', sans-serif;
+	/*padding: 20px;*/
+	/*etter-spacing: 2pt;*/
 	margin: 10px;
+	margin-left: 0px;
+	font-size: 18pt;
+	float: left;
+	/*text-align: justify;*/
+
 }
 
-.kiri{
-	text-align: left;
+/*.kiri{
+	text-align: justify-all;
 	color: green;
 	font-size: 10;
 }
 .kanan{
-	text-align: right;
+	text-align: justify-all;
 	color: red
 	font-size: 11;
 }
 .tengah{
-	text-align: center;
+	text-align: justify-all;
 	color: blue;
 	font-size: 12;
+}*/
+
+.teks{ /*untuk 3 paragraf*/
+	text-align: justify;
+	line-height: 20px;
+	color: #47AFAF
+
 }
-body{
-	background-color: white;
+
+.body{
+	background-color: #ECECEA;
+	/*margin-top: 100px;*/
+	/*background: "file:///D:/Zulfikaranshari/Documents/Internship%20SG/internship_SG_2017/1st%20Day%20Internship/1202154136_FIKAR/Background.jpg"*/
 }
+
+
+.quote{ /*untuk quote*/
+	font-size: 13pt;
+	
+}
+
+.desc{ /*untuk kalimat di bawah quote*/
+	font-size: 10pt; 
+
+}
+
+.image{ /*untuk 3 gambar*/
+	width: 80%;
+	/*padding-right: 10px;
+	padding-left: 10px; */
+}
+
+.thumb{
+
+	padding-top: 10px;
+}
+/*#profile-img{
+	margin-left: 65px;
+}*/
+
+.pic-border{
+	border-style: dotted;
+}
+.container{
+	margin-top: 100px;
+	border: dotted;
+}
+
