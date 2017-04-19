@@ -1,0 +1,16 @@
+
+form{
+	margin: 0 auto;
+	width: 40%;
+}
+
+#text1{
+	font-family: 'Libre Baskerville', serif;
+	color: red;
+}
+
+#text2{
+	font-family: 'Lobster', cursive;
+	color: blue;
+	font-size: 40px;
+}
