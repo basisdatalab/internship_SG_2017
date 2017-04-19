@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="index.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.2.0/jquery-confirm.min.css">
+  	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.2.0/jquery-confirm.min.js"></script>
+
+	<title>2nd day</title>
+</head>
+<body>
+	<nav class="navbar navbar-inverse">
+		<div class="container-fluid">
+			<div class="navbar-header">
+				<a class="navbar-brand" href="file:///D:/2nd%20day%20internship/index.html#">Hola!</a>
+			</div>
+			<ul class="nav navbar-nav navbar-right">
+				<li class="active"><a href="file:///D:/2nd%20day%20internship/index.html#"><span class="glyphicon glyphicon-log-in"> Login</span></a></li>
+				<li><a href="file:///D:/2nd%20day%20internship/index3.html#"><span class="glyphicon glyphicon-user"> Register</span></a></li>
+			</ul>
+		</div>
+	</nav>
+	<div class="container">
+		<div class="jumbotron">
+			<div class="col-md-4">
+				<img class="img-responsive center-block" src="home.png">
+			</div>
+			<div class="col-md-8"></div>
+			<h1>2nd Day Internship</h1>
+			<br>
+			<p class='bigger-text'>Hello! This is my first task in my second day internship of Basis Data Laboratory. Please click Login or Register to continue to the next page. I hope you enjoy my blog, and thank you for visiting mine :)
+			<p>
+		</div>
+		<hr>
+	<div class="row col-md-12">
+		<p>
+			<b>Hi there!</b>, please login if you already have the account.
+		</p>
+		<form class="form-horizontal">
+  <div class="form-group">
+    <label class="control-label col-sm-2" for="email">Email:</label>
+    <div class="col-sm-10">
+      <input type="email" class="form-control" id="email" placeholder="Enter email">
+    </div>
+  </div>
+  <div class="form-group">
+    <label class="control-label col-sm-2" for="pwd">Password:</label>
+    <div class="col-sm-10"> 
+      <input type="password" class="form-control" id="pwd" placeholder="Enter password">
+    </div>
+  </div>
+  <div class="form-group"> 
+    <div class="col-sm-offset-2 col-sm-10">
+      <div class="checkbox">
+        <label><input type="checkbox"> Remember me</label>
+      </div>
+    </div>
+  </div>
+  <div class="form-group"> 
+    <div class="col-sm-offset-2 col-sm-10">
+      <button id="btn1" type="submit" class="btn btn-default">Submit</button>
+    </div>
+    <script>
+		$(document).ready(function(){
+    		$("button").click(function(){
+        		alert("Hello " + $("#email").text());
+    		});
+		});
+</script>
+  </div>
+</form>
+	</div>
+	</div>
+</body>
+
+</html>
