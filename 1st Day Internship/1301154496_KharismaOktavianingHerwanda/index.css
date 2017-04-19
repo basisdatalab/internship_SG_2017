@@ -1,0 +1,107 @@
+body {
+	background-image: url("p.jpg");
+	background-repeat: repeat-y;
+}
+
+.kopii{
+	border:12px solid #FFF;
+	border-radius:20px;
+}
+
+.kopii2{
+	border:12px solid brown;
+	border-radius:40px;
+}
+
+#wanda{
+	color:#FFF;
+	font-size: 10px;
+	background-color:rgba(103, 55, 55, 0.79);
+	width:430px;
+	border-radius:20px;
+	padding:15px;
+	font-family: spirax;
+}
+
+
+
+p {
+	background-color: rgba(158, 31, 31, 0.57);
+}
+
+p4 {
+	font-size : 2cm;
+	text-align : center;
+	margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    border-left :60px;
+    color : white;
+}
+
+#p1{
+	font-family: 'Indie Flower', cursive;
+	color:#FFF;
+	font-size : 0,1cm;
+	margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    border-left :60px;
+    text-align: left;
+    letter-spacing: 3px;
+}
+#p2{
+	font-family: font-family: 'Roboto Slab', serif;
+	color: #FFF;
+	font-size : 0,3cm;
+	margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    border-left :60px;
+    text-align: center;
+    letter-spacing: 3,5px;
+}
+#p3{
+	font-family: 'Bree Serif', serif;
+	color:#FFF;
+	font-size : 0,5cm;
+	margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    border-left :60px;
+    text-align: right;
+    letter-spacing: 4px;
+}
+
+h {
+	font-size: 1cm;
+}
+
+h1 {
+	color : white;
+	font-size : 1cm;
+	width : 300px;
+	margin : 0 auto;
+	display : block;
+	padding : 10px,20px,20px,10px;
+	background-color: red;
+}
+
+h2 {
+	color : white;
+	font-size : 1cm;
+}
+
+h3 {
+	color : white;
+	font-size : 1cm;
+}
+
+h4 {
+	color : white;
+	font-size : 1cm;
+}
