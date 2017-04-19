@@ -1,0 +1,31 @@
+p{
+	font-family: "Times New Roman", Georgia, Serif;
+	margin-right: 10px;
+	margin-left:  50px;
+	padding-left: 20px;
+	padding-right: 30px;
+	text-align: left;
+	letter-spacing: 2px;
+}
+h1{
+	font-size: 50px;
+	text-align: center; 
+	font-family:"Arial", Sans; 
+	border-top: 10;
+	letter-spacing: 3px;
+
+}
+h2{
+	text-align: left;
+	font-size: 20px;
+	background-color: blue;
+}
+
+img{
+	margin:auto;
+	display: block;
+}
+body{
+	background-color: grey;
+}
+
