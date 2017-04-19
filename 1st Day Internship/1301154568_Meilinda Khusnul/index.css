@@ -1,0 +1,76 @@
+h1{
+		text-align : center;
+		font-family : monospace;
+		font-size : 40px;
+		color : red;
+		margin-top:40px;
+    	margin-left: 40px;
+    	margin-right: -20px;
+    	margin-bottom: 20px;  
+    	padding-top : 20px;
+
+	}
+h2{
+	text-align: left;
+	font-family : arial;
+	letter-spacing: 1px;
+	font-size : 20px;
+	color : blue;
+	padding: 40px 20px 20px 40px;
+	margin-top:40px;
+    margin-left: 40px;
+    margin-right: -20px;
+    margin-bottom: 20px;  
+    border-left: 7px solid black;
+;
+}
+img{
+	display: block;
+	margin: 0 auto;
+}
+
+p{
+	text-align: center;
+	font-family: times;
+	letter-spacing: 1.5px;
+	font-size : 25px;
+	color: yellow;
+	margin-top:40px;
+    margin-left: 40px;
+    margin-right: -20px;
+    margin-bottom: 20px; 
+    padding: 40px 20px 20px 40px; 
+    border : 5px dotted grey;
+}
+h3{
+	text-align: right;
+	font-family: calibri;
+	letter-spacing: 1px;
+	color : pink;
+	margin-top:40px;
+    margin-left: 40px;
+    margin-right: -20px;
+    margin-bottom: 20px;  
+    padding: 40px 20px 20px 40px;
+    border-right : 8px double purple;
+    font-size : 27px;
+
+}
+
+h4{
+	text-align: left;
+	font-family: lucida;
+	letter-spacing: 1.5px;
+	color : green;
+	margin-top:40px;
+    margin-left: 40px;
+    margin-right: -20px;
+    margin-bottom: 20px;  
+    padding: 40px 30px 20px 40px;
+    border : 9px dashed purple;
+    font-size : 26px;
+
+}
+body{
+	background-color: white;
+}
