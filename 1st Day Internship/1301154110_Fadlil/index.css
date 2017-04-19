@@ -1,32 +1,56 @@
 body{
-	background-color: maroon;
+	background-color: blue;
 }
+
 img {
-	width: 20%;
+	width: 50%;
 	margin: 0 auto;
-	display: block;
+	/*display: block;*/
 	border-right: 5px;
 	padding-top: 10px;
+	padding-bottom: 15px;
+
+}
+
+.i1{
+	float: left;
+	height: 300px;
+	width: 250px;
+}
+
+.i2 {
+	float: center;
+	height: 300px;
+	width: 250px;
+	margin-left: 999px;
+}
+
+.i3 {
+	float: right;
+	height: 300px;
+	width: 250px;
+	margin-bottom: 100px;
+	margin-right: 500px;
 }
 
 h1 {
 	font-size: 3em;
 	font-family: 'Lobster', cursive;
 	color: black;
-	text-align: center;
+	text-align: left;
 	letter-spacing: 1px;
 	padding-right: 5px;
 	margin-top: 10px;
 	margin-bottom: 20px;
 	border-left: 10px;
-	position: 60px;
+	position: 100px;
 }
 
 h2 {
 	font-size: 25pt;
 	font-family: 'Montserrat', sans-serif;
 	color: grey;
-	text-align: center;
+	text-align: left;
 	letter-spacing: 1px;
 	padding-left: 2px;
 }
