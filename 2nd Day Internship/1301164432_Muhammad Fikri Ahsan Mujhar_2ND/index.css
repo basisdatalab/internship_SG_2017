@@ -1,0 +1,16 @@
+body{
+	background-color: #3F3F3F;
+}
+
+h1{
+	text-align: center;
+	font-size: 40px !important;
+}
+
+h2{
+	text-align: center;
+}
+
+form{
+	width: 300px;
+}

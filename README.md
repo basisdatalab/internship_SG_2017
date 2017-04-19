@@ -1,49 +1,43 @@
-# TUGAS 2
+# NodeJS and MongoDB Tutorial
+NodeJS and MongoDB tutorial for Study Group Database Laboratory Internship 2017
 
-Belajar:
+## Prerequisite
+1. NodeJS
 
-  1. Git
-  2. HTML CSS
-  
-Buat personal profile dengan Fungsionalitas :
-  
-1. Ada 3 Gambar
-2. Ada paragraf
-3. Ada alignment setting
- 4. Ada font setting 
- 5. Ada 3 ukuran font berbeda
- 6. Menggunakan header dan paragraph tag
- 7. Menggunakan line height
- 1. Gambar
- 2. Min 3 paragraf
- 3. Ada 3 alignment setting ( center, left, right )
- 4. Ada 3 jenis font berbeda
- 5. Ada 5 ukuran font berbeda
- 6. Ada h1, h2, p
- 7. Ada 2 letter spacing berbeda
-  8. Ada setting padding
-  9. Ada setting margin
- 10. Ada bordering
- 11. Ada setting warna ( text )
- 10. Ada bordering left, right, full
- 11. Ada 4 warna berbeda ( text )
-  12. Ada background color
-  13. Mengerti fungsi float pada CSS
-  14. Mengerti fungsi position pada CSS
- 
- Baca dokumentasi bootstrap:
- * http://getbootstrap.com/components/
- * http://getbootstrap.com/css/
- 
- Lakukan hal dibawah menggunakan bootstrap:
- 1. Menggunakan grid system
- 2. ada button
- 3. Menggunakan container/container-fluid
- 4. Ada glyphicons
- 5. Ada navbar
- 5. Taruh 3 image ke dalam Thumbnails
- 
- Jquery
- opsi:
- * Alert
- * Document Object Model (DOM) Manipulation (mengubah isi/fungsi suatu tag)
+    Please install the **Latest Version** of NodeJS (7.90)
+
+    Download NodeJS: [https://nodejs.org/en/](https://nodejs.org/en/)
+
+2. MongoDB
+
+    Please **DOWNLOAD** the Last Version of MongoDB, **INTALLATION will be done together during the internship**
+
+    Download Mongodb: [https://www.mongodb.com/download-center?jmp=nav#community](https://www.mongodb.com/download-center?jmp=nav#community)
+    - Windows: dibagian atas ada button(ijo) download, klik.
+
+    ![mongodbinstallwindows](https://cloud.githubusercontent.com/assets/15356855/25158895/fad258b0-24d5-11e7-8df1-fa79bf256dbc.PNG)
+    - Mac: dibagian atas ada button(ijo) download, klik.
+
+    ![MongoDB Download for Mac](https://cloud.githubusercontent.com/assets/15356855/25159016/d8945680-24d6-11e7-976e-f1f8570f7f7b.PNG)
+
+3. Robomongo
+
+    Please **DOWNLOAD** and **INSTALL** the Latest Version of Robomongo
+
+    Download Robomongo: [http://robomongo.org/](http://robomongo.org/)
+
+    ![robomongo download](https://cloud.githubusercontent.com/assets/15356855/25159937/2e1fcef8-24dd-11e7-97c3-45b6192369c6.PNG)
+
+    **How to install** : Tinggal next next terus sampe finish :smile:
+
+4. Text-editor
+
+    Pengisi materi akan menggunakan text-editor [Atom](https://atom.io/) selama training. Tidak diwajibkan untuk menggunakan atom juga, semua text-editor bisa digunakan. :blush:
+
+5. Internet Connection
+
+    Tolong disiapkan yah :grin:
+
+## Step by step:
+    1. npm init
+    2.
