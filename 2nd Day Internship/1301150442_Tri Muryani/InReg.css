@@ -1,0 +1,22 @@
+#h1{
+	font-family: 'Lato';
+	font-size: 20pt;
+	margin-left: 10000px;
+	text-align: center;
+}
+
+#h2{
+	font-size: 50pt;
+    padding-left: 75px;
+	margin-left: 420px;
+}
+
+.container{
+	margin-top: 80px;
+}
+
+#tengah{
+	margin-left: 420px;
+	text-align: center;
+	padding-left: 75px;
+}
