@@ -1,0 +1,122 @@
+body{
+	background-color: tomato;
+}
+img{
+	width : 350px;
+	margin: 0 auto;
+	display: block;
+	border-right: 5px;
+	padding-top: 10px;
+}
+
+h1{
+	font-size : 18px;
+	font-family: monospace;
+	color:green;
+	text-align: right;
+}
+
+h2{
+	font-size : 50px;
+	font-family: Macondo;
+	color:white;
+	text-align: center;
+}
+
+
+h3{
+	font-size : 50px;
+	font-family: Quicksand;
+	color:black;
+	text-align: center;
+	border-style: dashed;
+	border-color: Chartreuse;
+
+	padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+	
+}
+
+
+#fontp{
+	font-size : 20px;
+	font-family: cursive;
+	color:Aqua;
+	text-align: center;
+	margin-bottom: 50px;
+	margin-top: 50px;
+	line-height: 40px;
+
+	padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+	
+}
+
+#fontp1{
+	font-size: 28px;
+	font-family: Dosis;
+	color: navy ;
+	text-align: left; 
+	margin-bottom: 50px;
+	line-height: 40px;
+}
+
+#fontp2{
+	font-size: 35px;
+	font-family: sans-serif;
+	color : maroon;
+	text-align: justify all;
+	line-height: 40px;
+}
+
+#fontp3{
+	font-size: 39px;
+	font-family: Vollkorn;
+	color:Gold ;
+	text-align: left;
+	line-height: 40px;
+}
+
+#fontp4{
+	font-size: 43px;
+	font-family: Alegreya;
+	color: Teal ;
+	text-align: left ;
+	line-height: 40px;
+
+}
+
+
+ .thick-green-border {
+    border-color: green;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 50%;
+  }
+
+
+ .thick-purple-border {
+    border-color: purple;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 500%;
+    border-right: 5%;
+    margin-bottom: 50px;
+  }
+
+   .thick-Chocolate-border {
+    border-color: Chocolate;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 5000%;
+    border-right: 5%;
+    margin-bottom: 50px;
+  }
+
+  .smaller-image {
+    width: 250px;
+
