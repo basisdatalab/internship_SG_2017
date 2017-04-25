@@ -1,43 +1,61 @@
-# NodeJS and MongoDB Tutorial
-NodeJS and MongoDB tutorial for Study Group Database Laboratory Internship 2017
+# Tugas Terakhir Internship SG 2017
 
-## Prerequisite
-1. NodeJS
+**Deadline: Selasa, 2 Mei 2017**
 
-    Please install the **Latest Version** of NodeJS (7.90)
+Teman-teman mendapat tugas individu untuk membuat satu web project dengan ketentuan/spesifikasi dibawah:
 
-    Download NodeJS: [https://nodejs.org/en/](https://nodejs.org/en/)
+###### Bisnis Proses
+> Aplikasi web ini digunakan untuk melakukan pendaftaran dan melihat hasil pendaftaran yang telah dilakukan. Hasil pendaftaran mahasiswa akan disimpan serta diambil datanya dari database. Identitas mahasiswa yang diperlukan: nama, nim, dan hobi (boleh ditambah atau dimodifikasi)
 
-2. MongoDB
+## Back-end
+1. Database
 
-    Please **DOWNLOAD** the Last Version of MongoDB, **INTALLATION will be done together during the internship**
+    Database yang digunakan adalah [MongoDB](https://www.mongodb.com/), web **minimal** dapat melakukan **CR (Create and Read)** dan data dimasukkan dalam database,  jika dapat mengimplementasikan Update and Delete itu merupakan **poin +**
 
-    Download Mongodb: [https://www.mongodb.com/download-center?jmp=nav#community](https://www.mongodb.com/download-center?jmp=nav#community)
-    - Windows: dibagian atas ada button(ijo) download, klik.
+2. NodeJS & Express
 
-    ![mongodbinstallwindows](https://cloud.githubusercontent.com/assets/15356855/25158895/fad258b0-24d5-11e7-8df1-fa79bf256dbc.PNG)
-    - Mac: dibagian atas ada button(ijo) download, klik.
+    Menggunakan [NodeJS](https://nodejs.org/en/) sebagai platform web app dan [ExpressJS](https://expressjs.com/) sebagai frameworknya.
 
-    ![MongoDB Download for Mac](https://cloud.githubusercontent.com/assets/15356855/25159016/d8945680-24d6-11e7-976e-f1f8570f7f7b.PNG)
+    Web aplikasi **harus** dapat menerima/melakukan **GET and POST HTTP Request**
 
-3. Robomongo
+    Package / Library yang akan digunakan (rekomendasi):
+    1. [Express](https://expressjs.com/)
+    2. [Body-parser](https://www.npmjs.com/package/body-parser)
+    3. [Mongoose](https://www.npmjs.com/package/mongoose)
 
-    Please **DOWNLOAD** and **INSTALL** the Latest Version of Robomongo
+    > doc:
+        1. [HTTP Methods: GET vs. POST](https://www.w3schools.com/tags/ref_httpmethods.asp)
+        2. [What is the difference between POST and GET?](http://stackoverflow.com/questions/3477333/what-is-the-difference-between-post-and-get)
 
-    Download Robomongo: [http://robomongo.org/](http://robomongo.org/)
+3. Routing. *doc:* [Routing guide](https://expressjs.com/en/guide/routing.html)
 
-    ![robomongo download](https://cloud.githubusercontent.com/assets/15356855/25159937/2e1fcef8-24dd-11e7-97c3-45b6192369c6.PNG)
+    Ada 2 halaman yang wajib dibuat, antara lain:
+    1. Page for create (register) mahasiswa. *e.g: basisdatalab.com/**register***
+    2. Page untuk output semua mahasiswa terdaftar. *e.g: basisdatalab.com/**semuamahasiswa***
 
-    **How to install** : Tinggal next next terus sampe finish :smile:
+    **Poin +** jika menambah page ini:
+    3. Page untuk search mahasiswa, akan mengoutputkan data mahasiswa jika ditemukan dan tidak ditemukan jika data tidak ditemukan. Parameter pencarian dapat menggunakan nim ataupun nama. *e.g: basisdatalab.com/**carimahasiswa***
 
-4. Text-editor
+## Front-end
+Silahkan buat web app dengan tema/tampilan sesuka teman-teman, tidak ada ketentuan yang spesifik untuk Front-end, hanya diwajibkan untuk menggunakan Form HTML, selain itu bebas, but gaboleh pake template ya^^.
 
-    Pengisi materi akan menggunakan text-editor [Atom](https://atom.io/) selama training. Tidak diwajibkan untuk menggunakan atom juga, semua text-editor bisa digunakan. :blush:
+1.  HTML
 
-5. Internet Connection
+    [Form](https://www.w3schools.com/html/html_forms.asp) menggunakan [action](https://www.w3schools.com/tags/att_form_action.asp) dan mengirimkan POST request ke server
 
-    Tolong disiapkan yah :grin:
+2. CSS
 
-## Step by step:
-    1. npm init
-    2.
+    Perindah web app menggunakan CSS
+
+3. Framework CSS
+
+    Rapihkan CSS menggunakan framework CSS pilihanmu, bebas boleh pake framework CSS apapun. e.g: [Bootstrap](http://getbootstrap.com/), [Semantic UI](https://semantic-ui.com/), [Materialize](http://materializecss.com/), dll
+4. Javascript / JQuery
+
+    Gunakanlah javascript untuk membuat tampilan web app menjadi lebih menarik dan dinamis
+
+note: Masing-masing file server, html, css dan js disimpan terpisah
+
+
+Tanyakan semua hal yang teman-teman belum paham sehingga bisa mengerjakan tugas diatas dengan baik :smile:
+--
