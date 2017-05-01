@@ -12,6 +12,15 @@ mongoose.connect('mongodb://localhost:27017/lastdayinternship', function(err, co
   console.log('Berhasil connect ke database');
 })
 
+// pake ini biar bisa akses folder public dan akses centang.png di public/image directory
+// COBA http://localhost:8000/image/centang.png
+// Dengan kondisi ini brarti semua file css, js, dan gambar ditaruh di folder public
+app.use(express.static('public'))
+// public itu nama folder, bebas mau dinamain apa, cuma umumnya public
+// mau diganti or mau ditambahin express.static('NAMAFOLDERAPAAJA') lagi juga bisa
+// kalo ditambah lagi brarti bisa akses folder yg NAMAFOLDERAPAAJA di url
+// gapake ini(express.static('blabla')) gaakan bisa akses file css, js, or gambar
+
 app.set('view engine', 'ejs');
 
 // parse application/x-www-form-urlencoded

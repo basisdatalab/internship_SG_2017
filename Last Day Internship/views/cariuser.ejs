@@ -1,10 +1,18 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <link rel="stylesheet" href="/css/hasil.css">
     <meta charset="utf-8">
     <title></title>
   </head>
   <body>
-    <p> <%= user.email %> </p>
+    <h1>CSS dari file public/css/hasil.css</h1>
+
+    <p>
+      <% if (user) { %>
+        <%= user.email %>
+      <% } else { %>
+        Data tidak ditemukan <%  } %>
+    </p>
   </body>
 </html>
